@@ -38,7 +38,7 @@ ER図
 テーブル定義書
 
 ## チャレンジ要素一覧
-https://docs.google.com/spreadsheets/d/16M7rcg3HPIsjsmLckF7Roet1tiQKB5qPhmCOC1mBZbA/edit#gid=0
+https://docs.google.com/spreadsheets/d/1HKwBfyalI_BtU9LDsYYOziaQSI-bWfTwcIkhbWuVCTc/edit#gid=0
 
 ## 開発環境
 - OS：Linux(CentOS)
