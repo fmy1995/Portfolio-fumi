@@ -1,5 +1,5 @@
 # コミュニティコミット（コミコミ）
-開発環境を下記に移動
+開発環境を移動
 https://github.com/fmy1995/CommunityCommit
 
 ## サイト概要
